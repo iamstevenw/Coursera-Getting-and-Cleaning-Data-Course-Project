@@ -1,8 +1,6 @@
-# Getting and Cleaning Data
+# Getting and Cleaning Data - Course Project
 
 Steven Wilson
-
-# Course Project - Code Book
 
 # Source Data
 

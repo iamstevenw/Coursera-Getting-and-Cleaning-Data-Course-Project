@@ -10,7 +10,7 @@ Original description: http://archive.ics.uci.edu/ml/datasets/Human+Activity+Reco
 
 #Data Set Steps
 
-The R code in this repository "run_analysis" performs the following the clean the data and produce a tidy data set:
+The R code in this repository "run_analysis.R" performs the following to clean the data and produce a tidy data set:
 
 ## Part 1 - Merges the training and the test sets to create one data set.
 
